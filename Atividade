@@ -1,0 +1,6 @@
+Implementar:
+  busca binária (Log N) para achar (Algoritmo Bom);
+  insertion sort (N²) para ordenar (Alritimo Ruim);
+  seletion sort (N²) para ordenar (Algoritimo Ruim);
+  Marge sort (N*Log N) para ordenar (Algoritimo Bom);
+  
